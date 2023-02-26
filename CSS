@@ -1,0 +1,55 @@
+<style>
+        .social-media {
+            width: 150px;
+        }
+
+        .social-media img{
+            width: 40px;
+            border-radius: 50%;
+        }
+
+        .social-media i{
+            font-size: 25px;
+            padding: 10px;
+        }
+
+        .social-media a {
+            padding-left: 15px;
+        }
+
+        .navbar-search input {
+            width: 250px;
+            height: 30px;
+            text-align: center;
+        }
+        
+        .stories img {
+            width: 50px;
+            border: 2px solid red;
+            border-radius: 50%;
+        }
+
+        .stories a {
+            padding: 8px;
+        }
+
+        .profile-pic img {
+            width: 40px;
+            border-radius: 50%;
+        }
+
+        .p-2 a{
+            text-decoration: none; 
+            color: black;     
+        }
+
+        .actions i{
+            padding-left: 15px;
+            font-size: 30px;
+        }
+
+        .aside-bar{
+            margin-top: 20px;
+            font-size: 30px;
+        }
+</style>
